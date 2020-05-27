@@ -8,4 +8,4 @@ def countdown (time_left)
   end
 end
 
-# countdown(10)
+countdown(10)
