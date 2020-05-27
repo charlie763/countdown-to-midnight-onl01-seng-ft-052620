@@ -7,3 +7,5 @@ def countdown (time_left)
     "HAPPY NEW YEAR!"
   end
 end
+
+countdown(10)
